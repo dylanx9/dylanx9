@@ -1,9 +1,9 @@
 ## Hi there 👋, I'm [Dylan](https://www.github.com/dylanx9)
 <!--  
 📍 **Vietnam** | 🤖 **Polyagentmorous builder** | 🚀 **Ex-PSPDFKit Founder**
--->
 
 
+<!--  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -43,7 +43,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-0062D3?style=flat-square&logo=docker&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-
+-->
 
 
 > Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. After 13+ years shipping native iOS, modern web feels like a breath of fresh air.
