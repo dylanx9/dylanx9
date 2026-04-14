@@ -1,4 +1,4 @@
-## Hi there 👋, I'm [Dylan](https://www.github.com/dylanx9)
+## Hi there 👋, I'm [Dan](https://www.github.com/dylanx9)
 <!--  
 📍 **Vietnam** | 🤖 **Polyagentmorous builder** | 🚀 **Ex-PSPDFKit Founder**
 
