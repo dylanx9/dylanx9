@@ -181,3 +181,7 @@
 
 </details>
 -->
+
+_** stay hungry stay foolish **_
+
+Steve Jobs
